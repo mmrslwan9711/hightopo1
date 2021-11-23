@@ -1,0 +1,142 @@
+{
+  "width": 1440,
+  "height": 217,
+  "comps": [
+    {
+      "type": "rect",
+      "background": "rgb(0,0,0)",
+      "borderColor": "#979797",
+      "gradientColor": "rgba(0,0,0,0)",
+      "shadowColor": "#1ABC9C",
+      "displayName": "遮挡渐变",
+      "rect": [
+        0,
+        0,
+        1440,
+        47.23068
+      ]
+    },
+    {
+      "type": "rect",
+      "background": "rgb(0,0,0)",
+      "borderColor": "#979797",
+      "gradient": "linear.south",
+      "gradientColor": "rgba(0,0,0,0)",
+      "shadowColor": "#1ABC9C",
+      "displayName": "遮挡渐变",
+      "rect": [
+        0,
+        41.50049,
+        1440,
+        171.36827
+      ]
+    },
+    {
+      "type": "shape",
+      "borderWidth": 2,
+      "borderColor": "rgb(30,84,232)",
+      "gradientColor": null,
+      "shadowColor": "#1ABC9C",
+      "displayName": "中",
+      "points": [
+        0,
+        38.48955,
+        463.68016,
+        43.60081,
+        487.72242,
+        71.27195,
+        969.29624,
+        71.27195,
+        994.79561,
+        43.60081,
+        1440,
+        43.60081
+      ]
+    },
+    {
+      "type": "shape",
+      "borderWidth": 2,
+      "borderColor": "rgb(30,84,232)",
+      "gradientColor": null,
+      "shadowColor": "#1ABC9C",
+      "displayName": "中",
+      "points": [
+        2.89721,
+        47.21015,
+        481.62406,
+        49.87977,
+        505.66632,
+        77.5509,
+        987.24014,
+        77.5509,
+        1012.73951,
+        49.87977,
+        1439.75167,
+        49.87977
+      ]
+    },
+    {
+      "type": "shape",
+      "borderWidth": 2,
+      "borderColor": "rgb(30,84,232)",
+      "gradientColor": null,
+      "shadowColor": "#1ABC9C",
+      "displayName": "中",
+      "points": [
+        2.23753,
+        47.23068,
+        447.52254,
+        49.62717,
+        471.56481,
+        77.29831,
+        953.13862,
+        77.29831,
+        978.63799,
+        49.62717,
+        1439.82477,
+        49.62717
+      ]
+    },
+    {
+      "type": "shape",
+      "background": "rgb(0,0,0)",
+      "borderColor": "rgb(14,57,176)",
+      "gradient": "radial.center",
+      "gradientColor": "rgba(0,0,0,0)",
+      "shadowColor": "#1ABC9C",
+      "displayName": "中",
+      "points": [
+        0.00001,
+        0,
+        0.00001,
+        52.55397,
+        446.48642,
+        52.55397,
+        470.55636,
+        80.18211,
+        988.91902,
+        80.18211,
+        1014.28286,
+        52.55397,
+        1440.00001,
+        52.55397,
+        1440.00001,
+        0
+      ]
+    },
+    {
+      "type": "text",
+      "text": "MY-ROOM",
+      "align": "center",
+      "color": "rgb(255,255,255)",
+      "scaleX": 3,
+      "scaleY": 3,
+      "rect": [
+        652.91798,
+        29.48369,
+        149.78176,
+        24.03361
+      ]
+    }
+  ]
+}

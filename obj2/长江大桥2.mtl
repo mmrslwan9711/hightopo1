@@ -1,0 +1,470 @@
+# 3ds Max Wavefront OBJ Exporter v0.99 - (c)2007 guruware
+# File Created: 23.11.2021 20:12:12
+
+newmtl 03___Default
+	Ns 16.00000000
+	Ni 1.50000000
+	d 1.00000000
+	Tr 0.00000000
+	Tf 1.00000000 1.00000000 1.00000000 
+	illum 2
+	Ka 0.00000000 0.00000000 0.00000000
+	Kd 1.00000000 1.00000000 1.00000000
+	Ks 0.31500000 0.31500000 0.31500000
+	Ke 0.00000000 0.00000000 0.00000000
+
+newmtl tiegui
+	Ns 28.00000000
+	Ni 1.50000000
+	d 1.00000000
+	Tr 0.00000000
+	Tf 1.00000000 1.00000000 1.00000000 
+	illum 2
+	Ka 0.00000000 0.00000000 0.00000000
+	Kd 0.58800000 0.58800000 0.58800000
+	Ks 0.19800000 0.19800000 0.19800000
+	Ke 0.00000000 0.00000000 0.00000000
+	map_Ka F:\BaiduNetdiskDownload\??3d????\maps\6dfb33eb725a91edc406ad7299508352.jpg
+	map_Kd F:\BaiduNetdiskDownload\??3d????\maps\6dfb33eb725a91edc406ad7299508352.jpg
+	map_bump F:\BaiduNetdiskDownload\??3d????\maps\6dfb33eb725a91edc406ad7299508352.jpg
+	bump F:\BaiduNetdiskDownload\??3d????\maps\6dfb33eb725a91edc406ad7299508352.jpg
+
+newmtl 20___Default
+	Ns 34.00000000
+	Ni 1.50000000
+	d 1.00000000
+	Tr 0.00000000
+	Tf 1.00000000 1.00000000 1.00000000 
+	illum 2
+	Ka 0.00000000 0.00000000 0.00000000
+	Kd 0.58823532 0.58823532 0.58823532
+	Ks 0.39600000 0.39600000 0.39600000
+	Ke 0.00000000 0.00000000 0.00000000
+	map_Ka F:\BaiduNetdiskDownload\??3d????\maps\120.jpg
+	map_Kd F:\BaiduNetdiskDownload\??3d????\maps\120.jpg
+	map_bump F:\BaiduNetdiskDownload\??3d????\maps\120.jpg
+	bump F:\BaiduNetdiskDownload\??3d????\maps\120.jpg
+
+newmtl 19___Default
+	Ns 9.99999905
+	Ni 1.50000000
+	d 1.00000000
+	Tr 0.00000000
+	Tf 1.00000000 1.00000000 1.00000000 
+	illum 2
+	Ka 0.00000000 0.00000000 0.00000000
+	Kd 0.58823532 0.58823532 0.58823532
+	Ks 0.00000000 0.00000000 0.00000000
+	Ke 0.00000000 0.00000000 0.00000000
+	map_Ka F:\BaiduNetdiskDownload\??3d????\maps\1153234679.jpg
+	map_Kd F:\BaiduNetdiskDownload\??3d????\maps\1153234679.jpg
+
+newmtl wire_028028177
+	Ns 32
+	d 1
+	Tr 0
+	Tf 1 1 1
+	illum 2
+	Ka 0.00000000 0.00000000 0.00000000
+	Kd 0.10980392 0.10980392 0.69411767
+	Ks 0.34999999 0.34999999 0.34999999
+
+newmtl wu_daqiao_26
+	Ns 19.99999809
+	Ni 1.50000000
+	d 1.00000000
+	Tr 0.00000000
+	Tf 1.00000000 1.00000000 1.00000000 
+	illum 2
+	Ka 0.00000000 0.00000000 0.00000000
+	Kd 0.58800000 0.58800000 0.58800000
+	Ks 0.13499999 0.13499999 0.13499999
+	Ke 0.00000000 0.00000000 0.00000000
+	map_Ka F:\BaiduNetdiskDownload\??3d????\maps\wu-daqiao_26.jpg
+	map_Kd F:\BaiduNetdiskDownload\??3d????\maps\wu-daqiao_26.jpg
+
+newmtl wu_daqiao_01
+	Ns 29.99999809
+	Ni 1.50000000
+	d 1.00000000
+	Tr 0.00000000
+	Tf 1.00000000 1.00000000 1.00000000 
+	illum 2
+	Ka 0.00000000 0.00000000 0.00000000
+	Kd 0.58800012 0.58800012 0.58800012
+	Ks 0.49500006 0.49500006 0.49500006
+	Ke 0.00000000 0.00000000 0.00000000
+	map_Ka F:\BaiduNetdiskDownload\??3d????\maps\wu-daqiao_01.JPG
+	map_Kd F:\BaiduNetdiskDownload\??3d????\maps\wu-daqiao_01.JPG
+	map_bump F:\BaiduNetdiskDownload\??3d????\maps\wu-daqiao_01.JPG
+	bump F:\BaiduNetdiskDownload\??3d????\maps\wu-daqiao_01.JPG
+
+newmtl wu_daqiao_07
+	Ns 19.99999809
+	Ni 1.50000000
+	d 1.00000000
+	Tr 0.00000000
+	Tf 1.00000000 1.00000000 1.00000000 
+	illum 2
+	Ka 0.00000000 0.00000000 0.00000000
+	Kd 0.58800012 0.58800012 0.58800012
+	Ks 0.13500001 0.13500001 0.13500001
+	Ke 0.00000000 0.00000000 0.00000000
+	map_Ka F:\BaiduNetdiskDownload\??3d????\maps\wu-daqiao_07.jpg
+	map_Kd F:\BaiduNetdiskDownload\??3d????\maps\wu-daqiao_07.jpg
+
+newmtl wu_daqiao_08
+	Ns 19.99999809
+	Ni 1.50000000
+	d 1.00000000
+	Tr 0.00000000
+	Tf 1.00000000 1.00000000 1.00000000 
+	illum 2
+	Ka 0.00000000 0.00000000 0.00000000
+	Kd 0.58800012 0.58800012 0.58800012
+	Ks 0.13500001 0.13500001 0.13500001
+	Ke 0.00000000 0.00000000 0.00000000
+	map_Ka F:\BaiduNetdiskDownload\??3d????\maps\wu-daqiao_08.jpg
+	map_Kd F:\BaiduNetdiskDownload\??3d????\maps\wu-daqiao_08.jpg
+
+newmtl wu_daqiao_10
+	Ns 19.99999809
+	Ni 1.50000000
+	d 1.00000000
+	Tr 0.00000000
+	Tf 1.00000000 1.00000000 1.00000000 
+	illum 2
+	Ka 0.00000000 0.00000000 0.00000000
+	Kd 0.58800012 0.58800012 0.58800012
+	Ks 0.13500001 0.13500001 0.13500001
+	Ke 0.00000000 0.00000000 0.00000000
+	map_Ka F:\BaiduNetdiskDownload\??3d????\maps\wu-daqiao_10.jpg
+	map_Kd F:\BaiduNetdiskDownload\??3d????\maps\wu-daqiao_10.jpg
+
+newmtl wu_daqiao_11
+	Ns 19.99999809
+	Ni 1.50000000
+	d 1.00000000
+	Tr 0.00000000
+	Tf 1.00000000 1.00000000 1.00000000 
+	illum 2
+	Ka 0.00000000 0.00000000 0.00000000
+	Kd 0.58800012 0.58800012 0.58800012
+	Ks 0.13500001 0.13500001 0.13500001
+	Ke 0.00000000 0.00000000 0.00000000
+	map_Ka F:\BaiduNetdiskDownload\??3d????\maps\wu-daqiao_11.jpg
+	map_Kd F:\BaiduNetdiskDownload\??3d????\maps\wu-daqiao_11.jpg
+
+newmtl wu_daqiao_12
+	Ns 19.99999809
+	Ni 1.50000000
+	d 1.00000000
+	Tr 0.00000000
+	Tf 1.00000000 1.00000000 1.00000000 
+	illum 2
+	Ka 0.00000000 0.00000000 0.00000000
+	Kd 0.58800012 0.58800012 0.58800012
+	Ks 0.13500001 0.13500001 0.13500001
+	Ke 0.00000000 0.00000000 0.00000000
+	map_Ka F:\BaiduNetdiskDownload\??3d????\maps\wu-daqiao_12.jpg
+	map_Kd F:\BaiduNetdiskDownload\??3d????\maps\wu-daqiao_12.jpg
+
+newmtl wu_daqiao_13
+	Ns 19.99999809
+	Ni 1.50000000
+	d 1.00000000
+	Tr 0.00000000
+	Tf 1.00000000 1.00000000 1.00000000 
+	illum 2
+	Ka 0.00000000 0.00000000 0.00000000
+	Kd 0.58800012 0.58800012 0.58800012
+	Ks 0.13500001 0.13500001 0.13500001
+	Ke 0.00000000 0.00000000 0.00000000
+	map_Ka F:\BaiduNetdiskDownload\??3d????\maps\wu-daqiao_13.jpg
+	map_Kd F:\BaiduNetdiskDownload\??3d????\maps\wu-daqiao_13.jpg
+
+newmtl wu_daqiao_15
+	Ns 19.99999809
+	Ni 1.50000000
+	d 1.00000000
+	Tr 0.00000000
+	Tf 1.00000000 1.00000000 1.00000000 
+	illum 2
+	Ka 0.00000000 0.00000000 0.00000000
+	Kd 0.58800012 0.58800012 0.58800012
+	Ks 0.13500001 0.13500001 0.13500001
+	Ke 0.00000000 0.00000000 0.00000000
+	map_Ka F:\BaiduNetdiskDownload\??3d????\maps\wu-daqiao_15.JPG
+	map_Kd F:\BaiduNetdiskDownload\??3d????\maps\wu-daqiao_15.JPG
+
+newmtl wu_daqiao_14
+	Ns 19.99999809
+	Ni 1.50000000
+	d 1.00000000
+	Tr 0.00000000
+	Tf 1.00000000 1.00000000 1.00000000 
+	illum 2
+	Ka 0.00000000 0.00000000 0.00000000
+	Kd 0.58800012 0.58800012 0.58800012
+	Ks 0.13500001 0.13500001 0.13500001
+	Ke 0.00000000 0.00000000 0.00000000
+	map_Ka F:\BaiduNetdiskDownload\??3d????\maps\wu-daqiao_14.JPG
+	map_Kd F:\BaiduNetdiskDownload\??3d????\maps\wu-daqiao_14.JPG
+
+newmtl wu_daqiao_03
+	Ns 19.99999809
+	Ni 1.50000000
+	d 1.00000000
+	Tr 0.00000000
+	Tf 1.00000000 1.00000000 1.00000000 
+	illum 2
+	Ka 0.00000000 0.00000000 0.00000000
+	Kd 0.58800012 0.58800012 0.58800012
+	Ks 0.13500001 0.13500001 0.13500001
+	Ke 0.00000000 0.00000000 0.00000000
+	map_Ka F:\BaiduNetdiskDownload\??3d????\maps\wu-daqiao_03.JPG
+	map_Kd F:\BaiduNetdiskDownload\??3d????\maps\wu-daqiao_03.JPG
+
+newmtl wu_daqiao_04
+	Ns 19.99999809
+	Ni 1.50000000
+	d 1.00000000
+	Tr 0.00000000
+	Tf 1.00000000 1.00000000 1.00000000 
+	illum 2
+	Ka 0.00000000 0.00000000 0.00000000
+	Kd 0.58800012 0.58800012 0.58800012
+	Ks 0.13500001 0.13500001 0.13500001
+	Ke 0.00000000 0.00000000 0.00000000
+	map_Ka F:\BaiduNetdiskDownload\??3d????\maps\wu-daqiao_04.jpg
+	map_Kd F:\BaiduNetdiskDownload\??3d????\maps\wu-daqiao_04.jpg
+
+newmtl wu_daqiao_05
+	Ns 19.99999809
+	Ni 1.50000000
+	d 1.00000000
+	Tr 0.00000000
+	Tf 1.00000000 1.00000000 1.00000000 
+	illum 2
+	Ka 0.00000000 0.00000000 0.00000000
+	Kd 0.58800012 0.58800012 0.58800012
+	Ks 0.13500001 0.13500001 0.13500001
+	Ke 0.00000000 0.00000000 0.00000000
+	map_Ka F:\BaiduNetdiskDownload\??3d????\maps\wu-daqiao_05.jpg
+	map_Kd F:\BaiduNetdiskDownload\??3d????\maps\wu-daqiao_05.jpg
+
+newmtl wu_daqiao_02
+	Ns 19.99999809
+	Ni 1.50000000
+	d 1.00000000
+	Tr 0.00000000
+	Tf 1.00000000 1.00000000 1.00000000 
+	illum 2
+	Ka 0.00000000 0.00000000 0.00000000
+	Kd 0.58800012 0.58800012 0.58800012
+	Ks 0.13500001 0.13500001 0.13500001
+	Ke 0.00000000 0.00000000 0.00000000
+	map_Ka F:\BaiduNetdiskDownload\??3d????\maps\wu-daqiao_02.jpg
+	map_Kd F:\BaiduNetdiskDownload\??3d????\maps\wu-daqiao_02.jpg
+
+newmtl wu_daqiao_17
+	Ns 26.00000000
+	Ni 1.50000000
+	d 1.00000000
+	Tr 0.00000000
+	Tf 1.00000000 1.00000000 1.00000000 
+	illum 2
+	Ka 0.00000000 0.00000000 0.00000000
+	Kd 0.58800000 0.58800000 0.58800000
+	Ks 0.44999999 0.44999999 0.44999999
+	Ke 0.00000000 0.00000000 0.00000000
+	map_Ka F:\BaiduNetdiskDownload\??3d????\maps\wu-daqiao_17.jpg
+	map_Kd F:\BaiduNetdiskDownload\??3d????\maps\wu-daqiao_17.jpg
+	map_bump F:\BaiduNetdiskDownload\??3d????\maps\wu-daqiao_17.jpg
+	bump F:\BaiduNetdiskDownload\??3d????\maps\wu-daqiao_17.jpg
+
+newmtl wu_daqiao_18
+	Ns 33.00000000
+	Ni 1.50000000
+	d 1.00000000
+	Tr 0.00000000
+	Tf 1.00000000 1.00000000 1.00000000 
+	illum 2
+	Ka 0.00000000 0.00000000 0.00000000
+	Kd 0.58800000 0.58800000 0.58800000
+	Ks 0.61199999 0.61199999 0.61199999
+	Ke 0.00000000 0.00000000 0.00000000
+	map_Ka F:\BaiduNetdiskDownload\??3d????\maps\wu-daqiao_18.JPG
+	map_Kd F:\BaiduNetdiskDownload\??3d????\maps\wu-daqiao_18.JPG
+	map_bump F:\BaiduNetdiskDownload\??3d????\maps\wu-daqiao_18.JPG
+	bump F:\BaiduNetdiskDownload\??3d????\maps\wu-daqiao_18.JPG
+
+newmtl wu_daqiao_16
+	Ns 19.99999809
+	Ni 1.50000000
+	d 1.00000000
+	Tr 0.00000000
+	Tf 1.00000000 1.00000000 1.00000000 
+	illum 2
+	Ka 0.00000000 0.00000000 0.00000000
+	Kd 0.58800000 0.58800000 0.58800000
+	Ks 0.13499999 0.13499999 0.13499999
+	Ke 0.00000000 0.00000000 0.00000000
+	map_Ka F:\BaiduNetdiskDownload\??3d????\maps\wu-daqiao_16.jpg
+	map_Kd F:\BaiduNetdiskDownload\??3d????\maps\wu-daqiao_16.jpg
+
+newmtl wu_daqiao_28al
+	Ns 58.99999619
+	Ni 1.50000000
+	d 1.00000000
+	Tr 0.00000000
+	Tf 1.00000000 1.00000000 1.00000000 
+	illum 2
+	Ka 0.00000000 0.00000000 0.00000000
+	Kd 0.58800000 0.58800000 0.58800000
+	Ks 0.42299998 0.42299998 0.42299998
+	Ke 0.00000000 0.00000000 0.00000000
+	map_Ka F:\BaiduNetdiskDownload\??3d????\maps\wu-daqiao_28al.tga
+	map_Kd F:\BaiduNetdiskDownload\??3d????\maps\wu-daqiao_28al.tga
+	map_d F:\BaiduNetdiskDownload\??3d????\maps\wu-daqiao_28al.tga
+
+newmtl wu_daqiao_29al
+	Ns 19.99999809
+	Ni 1.50000000
+	d 1.00000000
+	Tr 0.00000000
+	Tf 1.00000000 1.00000000 1.00000000 
+	illum 2
+	Ka 0.00000000 0.00000000 0.00000000
+	Kd 0.58800000 0.58800000 0.58800000
+	Ks 0.13499999 0.13499999 0.13499999
+	Ke 0.00000000 0.00000000 0.00000000
+	map_Ka F:\BaiduNetdiskDownload\??3d????\maps\wu-daqiao_29al.tga
+	map_Kd F:\BaiduNetdiskDownload\??3d????\maps\wu-daqiao_29al.tga
+	map_d F:\BaiduNetdiskDownload\??3d????\maps\wu-daqiao_29al.tga
+
+newmtl wu_daqiao_30al
+	Ns 19.99999809
+	Ni 1.50000000
+	d 1.00000000
+	Tr 0.00000000
+	Tf 1.00000000 1.00000000 1.00000000 
+	illum 2
+	Ka 0.00000000 0.00000000 0.00000000
+	Kd 0.58800000 0.58800000 0.58800000
+	Ks 0.13499999 0.13499999 0.13499999
+	Ke 0.00000000 0.00000000 0.00000000
+	map_Ka F:\BaiduNetdiskDownload\??3d????\maps\wu-daqiao_30al.tga
+	map_Kd F:\BaiduNetdiskDownload\??3d????\maps\wu-daqiao_30al.tga
+	map_d F:\BaiduNetdiskDownload\??3d????\maps\wu-daqiao_30al.tga
+
+newmtl wu_daqiao_31al
+	Ns 19.99999809
+	Ni 1.50000000
+	d 1.00000000
+	Tr 0.00000000
+	Tf 1.00000000 1.00000000 1.00000000 
+	illum 2
+	Ka 0.00000000 0.00000000 0.00000000
+	Kd 0.58800000 0.58800000 0.58800000
+	Ks 0.13499999 0.13499999 0.13499999
+	Ke 0.00000000 0.00000000 0.00000000
+	map_Ka F:\BaiduNetdiskDownload\??3d????\maps\wu-daqiao_31al.tga
+	map_Kd F:\BaiduNetdiskDownload\??3d????\maps\wu-daqiao_31al.tga
+	map_d F:\BaiduNetdiskDownload\??3d????\maps\wu-daqiao_31al.tga
+
+newmtl wu_daqiao_32al
+	Ns 19.99999809
+	Ni 1.50000000
+	d 1.00000000
+	Tr 0.00000000
+	Tf 1.00000000 1.00000000 1.00000000 
+	illum 2
+	Ka 0.00000000 0.00000000 0.00000000
+	Kd 0.58800000 0.58800000 0.58800000
+	Ks 0.13499999 0.13499999 0.13499999
+	Ke 0.00000000 0.00000000 0.00000000
+	map_Ka F:\BaiduNetdiskDownload\??3d????\maps\wu-daqiao_32al.tga
+	map_Kd F:\BaiduNetdiskDownload\??3d????\maps\wu-daqiao_32al.tga
+	map_d F:\BaiduNetdiskDownload\??3d????\maps\wu-daqiao_32al.tga
+
+newmtl wu_daqiao_06al
+	Ns 19.99999809
+	Ni 1.50000000
+	d 1.00000000
+	Tr 0.00000000
+	Tf 1.00000000 1.00000000 1.00000000 
+	illum 2
+	Ka 0.00000000 0.00000000 0.00000000
+	Kd 0.58800000 0.58800000 0.58800000
+	Ks 0.13499999 0.13499999 0.13499999
+	Ke 0.00000000 0.00000000 0.00000000
+	map_Ka F:\BaiduNetdiskDownload\??3d????\maps\wu-daqiao_06al.tga
+	map_Kd F:\BaiduNetdiskDownload\??3d????\maps\wu-daqiao_06al.tga
+	map_d F:\BaiduNetdiskDownload\??3d????\maps\wu-daqiao_06al.tga
+
+newmtl wu_daqiao_25
+	Ns 19.99999809
+	Ni 1.50000000
+	d 1.00000000
+	Tr 0.00000000
+	Tf 1.00000000 1.00000000 1.00000000 
+	illum 2
+	Ka 0.00000000 0.00000000 0.00000000
+	Kd 0.58800000 0.58800000 0.58800000
+	Ks 0.13499999 0.13499999 0.13499999
+	Ke 0.00000000 0.00000000 0.00000000
+	map_Ka F:\BaiduNetdiskDownload\??3d????\maps\wu-daqiao_25.jpg
+	map_Kd F:\BaiduNetdiskDownload\??3d????\maps\wu-daqiao_25.jpg
+
+newmtl wire_113134006
+	Ns 32
+	d 1
+	Tr 0
+	Tf 1 1 1
+	illum 2
+	Ka 0.00000000 0.00000000 0.00000000
+	Kd 0.44313726 0.52549022 0.02352941
+	Ks 0.34999999 0.34999999 0.34999999
+
+newmtl wu_daqiao_24
+	Ns 19.99999809
+	Ni 1.50000000
+	d 1.00000000
+	Tr 0.00000000
+	Tf 1.00000000 1.00000000 1.00000000 
+	illum 2
+	Ka 0.00000000 0.00000000 0.00000000
+	Kd 0.58800000 0.58800000 0.58800000
+	Ks 0.13499999 0.13499999 0.13499999
+	Ke 0.00000000 0.00000000 0.00000000
+	map_Ka F:\BaiduNetdiskDownload\??3d????\maps\wu-daqiao_24.JPG
+	map_Kd F:\BaiduNetdiskDownload\??3d????\maps\wu-daqiao_24.JPG
+
+newmtl wu_daqiao_21
+	Ns 19.99999809
+	Ni 1.50000000
+	d 1.00000000
+	Tr 0.00000000
+	Tf 1.00000000 1.00000000 1.00000000 
+	illum 2
+	Ka 0.00000000 0.00000000 0.00000000
+	Kd 0.58800000 0.58800000 0.58800000
+	Ks 0.13499999 0.13499999 0.13499999
+	Ke 0.00000000 0.00000000 0.00000000
+	map_Ka F:\BaiduNetdiskDownload\??3d????\maps\wu-daqiao_21.jpg
+	map_Kd F:\BaiduNetdiskDownload\??3d????\maps\wu-daqiao_21.jpg
+
+newmtl wu_daqiao_23
+	Ns 19.99999809
+	Ni 1.50000000
+	d 1.00000000
+	Tr 0.00000000
+	Tf 1.00000000 1.00000000 1.00000000 
+	illum 2
+	Ka 0.00000000 0.00000000 0.00000000
+	Kd 0.58800000 0.58800000 0.58800000
+	Ks 0.13499999 0.13499999 0.13499999
+	Ke 0.00000000 0.00000000 0.00000000
+	map_Ka F:\BaiduNetdiskDownload\??3d????\maps\wu-daqiao_23.jpg
+	map_Kd F:\BaiduNetdiskDownload\??3d????\maps\wu-daqiao_23.jpg
